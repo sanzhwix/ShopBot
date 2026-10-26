@@ -1,0 +1,14 @@
+# dependencies and builds
+webapp/node_modules/
+webapp/dist/
+/shopbot
+
+# local data: database and generated keys
+data/*
+!data/.gitkeep
+.env
+
+# editors
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,398 @@
+{
+  "malls": [
+    {"slug": "khan-shatyr", "name_en": "Khan Shatyr", "name_ru": "Хан Шатыр", "address_en": "Turan Ave 37", "address_ru": "пр. Туран, 37", "lat": 51.13251, "lng": 71.40387},
+    {"slug": "mega-silk-way", "name_en": "Mega Silk Way", "name_ru": "Мега Силк Вей", "address_en": "Kabanbay Batyr Ave 62", "address_ru": "пр. Кабанбай батыра, 62", "lat": 51.08902, "lng": 71.40754},
+    {"slug": "keruen", "name_en": "Keruen", "name_ru": "Керуен", "address_en": "Dostyk St 9", "address_ru": "ул. Достык, 9", "lat": 51.12779, "lng": 71.42531},
+    {"slug": "abu-dhabi-plaza", "name_en": "Abu Dhabi Plaza", "name_ru": "Абу-Даби Плаза", "address_en": "Syganak St 60/5", "address_ru": "ул. Сыганак, 60/5", "lat": 51.12197, "lng": 71.42793}
+  ],
+  "shops": [
+    {
+      "slug": "nan-and-co", "name": "Nan & Co", "category": "bakery", "mall": "",
+      "lat": 51.12490, "lng": 71.43340, "address_en": "Kunaev St 12", "address_ru": "ул. Кунаева, 12",
+      "description_en": "Craft bakery with sourdough, French pastries and Kazakh classics. Baked every morning.",
+      "description_ru": "Крафтовая пекарня: хлеб на закваске, французская выпечка и казахская классика. Печём каждое утро.",
+      "hours": "07:00–22:00", "rating": 4.8, "logo": "🥐", "base_orders": 24,
+      "categories": [
+        {"name_en": "Bread", "name_ru": "Хлеб", "products": [
+          {"en": "Sourdough loaf", "ru": "Хлеб на закваске", "price": 1400, "image": "🍞", "desc_en": "Long-fermented wheat sourdough, 700 g.", "desc_ru": "Пшеничный хлеб долгой ферментации, 700 г."},
+          {"en": "Baguette", "ru": "Багет", "price": 600, "image": "🥖", "desc_en": "Classic French baguette, crispy crust.", "desc_ru": "Классический французский багет с хрустящей корочкой."},
+          {"en": "Rye bread with caraway", "ru": "Ржаной хлеб с тмином", "price": 900, "image": "🍞"},
+          {"en": "Tandyr nan", "ru": "Тандыр нан", "price": 350, "image": "🫓", "desc_en": "Flatbread from a clay tandyr oven.", "desc_ru": "Лепёшка из глиняного тандыра."},
+          {"en": "Ciabatta", "ru": "Чиабатта", "price": 700, "image": "🥖"}
+        ]},
+        {"name_en": "Pastries", "name_ru": "Выпечка", "products": [
+          {"en": "Butter croissant", "ru": "Круассан сливочный", "price": 650, "image": "🥐", "desc_en": "82% French butter, 27 layers.", "desc_ru": "Французское масло 82%, 27 слоёв."},
+          {"en": "Almond croissant", "ru": "Миндальный круассан", "price": 950, "image": "🥐"},
+          {"en": "Pain au chocolat", "ru": "Пен-о-шоколя", "price": 800, "image": "🍫"},
+          {"en": "Cinnamon roll", "ru": "Синнабон с корицей", "price": 850, "image": "🌀"},
+          {"en": "Baursak box (12 pcs)", "ru": "Баурсаки (12 шт.)", "price": 1500, "image": "🟫"}
+        ]},
+        {"name_en": "Cakes & desserts", "name_ru": "Торты и десерты", "products": [
+          {"en": "Napoleon slice", "ru": "Наполеон, кусочек", "price": 1300, "image": "🍰"},
+          {"en": "Honey cake slice", "ru": "Медовик, кусочек", "price": 1200, "image": "🍯"},
+          {"en": "New York cheesecake", "ru": "Чизкейк Нью-Йорк", "price": 1500, "image": "🍰"},
+          {"en": "Chak-chak", "ru": "Чак-чак", "price": 2200, "image": "🍯"}
+        ]},
+        {"name_en": "Drinks", "name_ru": "Напитки", "products": [
+          {"en": "Cappuccino", "ru": "Капучино", "price": 1100, "image": "☕"},
+          {"en": "Latte", "ru": "Латте", "price": 1200, "image": "☕"},
+          {"en": "Black tea with milk", "ru": "Чай с молоком", "price": 600, "image": "🍵"},
+          {"en": "Fresh orange juice", "ru": "Свежевыжатый апельсиновый сок", "price": 1500, "image": "🍊"}
+        ]}
+      ]
+    },
+    {
+      "slug": "baursak-house", "name": "Baursak House", "category": "bakery", "mall": "",
+      "lat": 51.16900, "lng": 71.43020, "address_en": "Respublika Ave 24", "address_ru": "пр. Республики, 24",
+      "description_en": "Home-style Kazakh bakery: hot baursaks, tandyr samsa and kymyz.",
+      "description_ru": "Домашняя казахская пекарня: горячие баурсаки, тандыр-самса и кымыз.",
+      "hours": "08:00–21:00", "rating": 4.9, "logo": "🫓", "base_orders": 18,
+      "categories": [
+        {"name_en": "Baursaks", "name_ru": "Баурсаки", "products": [
+          {"en": "Classic baursaks (10 pcs)", "ru": "Баурсаки классические (10 шт.)", "price": 900, "image": "🟫"},
+          {"en": "Sweet baursaks (10 pcs)", "ru": "Баурсаки сладкие (10 шт.)", "price": 1100, "image": "🟫"},
+          {"en": "Mini baursak party box", "ru": "Мини-баурсаки, большой бокс", "price": 1800, "image": "📦"}
+        ]},
+        {"name_en": "Samsa", "name_ru": "Самса", "products": [
+          {"en": "Tandyr samsa with beef", "ru": "Тандыр-самса с говядиной", "price": 650, "image": "🥟"},
+          {"en": "Pumpkin samsa", "ru": "Самса с тыквой", "price": 550, "image": "🎃"},
+          {"en": "Chicken samsa", "ru": "Самса с курицей", "price": 600, "image": "🥟"},
+          {"en": "Lamb samsa", "ru": "Самса с бараниной", "price": 800, "image": "🥟"}
+        ]},
+        {"name_en": "Sweets", "name_ru": "Сладости", "products": [
+          {"en": "Chak-chak with honey", "ru": "Чак-чак с мёдом", "price": 2000, "image": "🍯"},
+          {"en": "Kurt gift box", "ru": "Курт, подарочная коробка", "price": 1200, "image": "⚪"},
+          {"en": "Talkan sweets", "ru": "Сладости из талкана", "price": 1500, "image": "🍬"}
+        ]},
+        {"name_en": "Drinks", "name_ru": "Напитки", "products": [
+          {"en": "Kymyz 0.5 L", "ru": "Кымыз 0,5 л", "price": 1600, "image": "🥛"},
+          {"en": "Shubat 0.5 L", "ru": "Шубат 0,5 л", "price": 1500, "image": "🥛"},
+          {"en": "Tea with milk", "ru": "Чай с молоком", "price": 500, "image": "🍵"}
+        ]}
+      ]
+    },
+    {
+      "slug": "golden-crust", "name": "Golden Crust", "category": "bakery", "mall": "",
+      "lat": 51.13300, "lng": 71.41890, "address_en": "Kabanbay Batyr Ave 11", "address_ru": "пр. Кабанбай батыра, 11",
+      "description_en": "Cakes to order, cookies and whole-grain bread.",
+      "description_ru": "Торты на заказ, печенье и цельнозерновой хлеб.",
+      "hours": "09:00–21:00", "rating": 4.6, "logo": "🎂", "base_orders": 12,
+      "categories": [
+        {"name_en": "Bread", "name_ru": "Хлеб", "products": [
+          {"en": "Whole-grain bread", "ru": "Цельнозерновой хлеб", "price": 1100, "image": "🍞"},
+          {"en": "Bagels (4 pcs)", "ru": "Бейглы (4 шт.)", "price": 1200, "image": "🥯"}
+        ]},
+        {"name_en": "Cakes", "name_ru": "Торты", "products": [
+          {"en": "Red velvet cake, 1.2 kg", "ru": "Торт Красный бархат, 1,2 кг", "price": 9500, "image": "🎂"},
+          {"en": "Chocolate cake, 1.2 kg", "ru": "Шоколадный торт, 1,2 кг", "price": 8900, "image": "🎂"},
+          {"en": "Tiramisu", "ru": "Тирамису", "price": 1600, "image": "🍮"}
+        ]},
+        {"name_en": "Cookies", "name_ru": "Печенье", "products": [
+          {"en": "Oat cookies (6 pcs)", "ru": "Овсяное печенье (6 шт.)", "price": 900, "image": "🍪"},
+          {"en": "Macarons (6 pcs)", "ru": "Макаруны (6 шт.)", "price": 2400, "image": "🍬"},
+          {"en": "Brownie", "ru": "Брауни", "price": 1100, "image": "🟫"}
+        ]}
+      ]
+    },
+    {
+      "slug": "steppe-wear", "name": "Steppe Wear", "category": "clothes", "mall": "khan-shatyr",
+      "lat": 51.13275, "lng": 71.40350, "address_en": "Khan Shatyr, 2nd floor", "address_ru": "Хан Шатыр, 2 этаж",
+      "description_en": "Local streetwear brand with steppe ornaments. Hoodies, tees and cargo pants.",
+      "description_ru": "Локальный стритвир-бренд со степными орнаментами. Худи, футболки и карго.",
+      "hours": "10:00–22:00", "rating": 4.7, "logo": "🧥", "base_orders": 7,
+      "categories": [
+        {"name_en": "Hoodies", "name_ru": "Худи", "products": [
+          {"en": "Oversized hoodie \"Steppe\"", "ru": "Худи оверсайз «Степь»", "price": 18900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["black","beige","grey"], "material": "cotton", "desc_en": "Heavy 400 g/m² cotton, ornament print on the back.", "desc_ru": "Плотный хлопок 400 г/м², орнамент на спине."},
+          {"en": "Zip hoodie fleece", "ru": "Худи на молнии, флис", "price": 21900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["navy","black"], "material": "fleece"},
+          {"en": "Ornament hoodie", "ru": "Худи с орнаментом", "price": 23900, "image": "🧥", "sizes": ["M","L","XL"], "colors": ["white","black"], "material": "cotton"}
+        ]},
+        {"name_en": "T-shirts", "name_ru": "Футболки", "products": [
+          {"en": "Basic tee", "ru": "Базовая футболка", "price": 6900, "image": "👕", "sizes": ["S","M","L","XL"], "colors": ["white","black","grey"], "material": "cotton"},
+          {"en": "Graphic tee \"Nomad\"", "ru": "Футболка с принтом «Номад»", "price": 8900, "image": "👕", "sizes": ["S","M","L","XL"], "colors": ["black","white"], "material": "cotton"},
+          {"en": "Long-sleeve tee", "ru": "Лонгслив", "price": 9900, "image": "👕", "sizes": ["S","M","L"], "colors": ["grey","khaki"], "material": "cotton"}
+        ]},
+        {"name_en": "Pants", "name_ru": "Брюки", "products": [
+          {"en": "Cargo pants", "ru": "Брюки карго", "price": 19900, "image": "👖", "sizes": ["S","M","L","XL"], "colors": ["khaki","black"], "material": "cotton"},
+          {"en": "Joggers", "ru": "Джоггеры", "price": 15900, "image": "👖", "sizes": ["S","M","L","XL"], "colors": ["grey","black"], "material": "fleece"}
+        ]},
+        {"name_en": "Accessories", "name_ru": "Аксессуары", "products": [
+          {"en": "Knit beanie", "ru": "Вязаная шапка", "price": 5900, "image": "🧢", "colors": ["black","beige"], "material": "wool"},
+          {"en": "Canvas tote bag", "ru": "Сумка-шопер", "price": 4900, "image": "👜", "colors": ["beige"], "material": "canvas"},
+          {"en": "Baseball cap", "ru": "Бейсболка", "price": 6500, "image": "🧢", "colors": ["black","navy"], "material": "cotton"}
+        ]}
+      ]
+    },
+    {
+      "slug": "nomad-denim", "name": "Nomad Denim", "category": "clothes", "mall": "mega-silk-way",
+      "lat": 51.08930, "lng": 71.40720, "address_en": "Mega Silk Way, 1st floor", "address_ru": "Мега Силк Вей, 1 этаж",
+      "description_en": "Denim studio: jeans, jackets and shirts with free hemming.",
+      "description_ru": "Деним-студия: джинсы, куртки и рубашки, подгонка длины бесплатно.",
+      "hours": "10:00–22:00", "rating": 4.6, "logo": "👖", "base_orders": 6,
+      "categories": [
+        {"name_en": "Jeans", "name_ru": "Джинсы", "products": [
+          {"en": "Slim jeans", "ru": "Джинсы слим", "price": 24900, "image": "👖", "sizes": ["S","M","L","XL"], "colors": ["blue","black"], "material": "denim"},
+          {"en": "Straight jeans", "ru": "Прямые джинсы", "price": 22900, "image": "👖", "sizes": ["S","M","L","XL"], "colors": ["blue"], "material": "denim"},
+          {"en": "Wide-leg jeans", "ru": "Широкие джинсы", "price": 26900, "image": "👖", "sizes": ["S","M","L"], "colors": ["blue","white"], "material": "denim"}
+        ]},
+        {"name_en": "Jackets", "name_ru": "Куртки", "products": [
+          {"en": "Denim jacket", "ru": "Джинсовая куртка", "price": 32900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["blue"], "material": "denim"},
+          {"en": "Sherpa denim jacket", "ru": "Джинсовая куртка с шерпой", "price": 39900, "image": "🧥", "sizes": ["M","L","XL"], "colors": ["blue"], "material": "denim"}
+        ]},
+        {"name_en": "Shirts", "name_ru": "Рубашки", "products": [
+          {"en": "Denim shirt", "ru": "Джинсовая рубашка", "price": 17900, "image": "👔", "sizes": ["S","M","L","XL"], "colors": ["blue"], "material": "denim"},
+          {"en": "Oxford shirt", "ru": "Оксфордская рубашка", "price": 15900, "image": "👔", "sizes": ["S","M","L","XL"], "colors": ["white","blue"], "material": "cotton"}
+        ]},
+        {"name_en": "Hoodies", "name_ru": "Худи", "products": [
+          {"en": "Denim-patch hoodie", "ru": "Худи с денимовой вставкой", "price": 21900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["grey","navy"], "material": "cotton"}
+        ]}
+      ]
+    },
+    {
+      "slug": "tumar-basics", "name": "Tumar Basics", "category": "clothes", "mall": "keruen",
+      "lat": 51.12800, "lng": 71.42500, "address_en": "Keruen, 1st floor", "address_ru": "Керуен, 1 этаж",
+      "description_en": "Everyday basics at fair prices: organic cotton, merino wool.",
+      "description_ru": "Базовая одежда на каждый день по честным ценам: органический хлопок, мериносовая шерсть.",
+      "hours": "10:00–22:00", "rating": 4.5, "logo": "👕", "base_orders": 8,
+      "categories": [
+        {"name_en": "T-shirts", "name_ru": "Футболки", "products": [
+          {"en": "Organic cotton tee", "ru": "Футболка из органического хлопка", "price": 4900, "image": "👕", "sizes": ["S","M","L","XL"], "colors": ["white","black","green"], "material": "cotton"},
+          {"en": "V-neck tee", "ru": "Футболка с V-вырезом", "price": 4900, "image": "👕", "sizes": ["S","M","L","XL"], "colors": ["white","grey"], "material": "cotton"},
+          {"en": "Polo shirt", "ru": "Поло", "price": 8900, "image": "👕", "sizes": ["S","M","L","XL"], "colors": ["navy","white"], "material": "cotton"}
+        ]},
+        {"name_en": "Hoodies", "name_ru": "Худи", "products": [
+          {"en": "Basic hoodie", "ru": "Базовое худи", "price": 12900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["grey","black","beige"], "material": "cotton", "desc_en": "Soft brushed cotton, kangaroo pocket.", "desc_ru": "Мягкий начёсанный хлопок, карман-кенгуру."},
+          {"en": "Sport hoodie", "ru": "Спортивное худи", "price": 10900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["black","navy"], "material": "polyester"}
+        ]},
+        {"name_en": "Knitwear", "name_ru": "Трикотаж", "products": [
+          {"en": "Merino sweater", "ru": "Свитер из мериноса", "price": 24900, "image": "🧶", "sizes": ["S","M","L","XL"], "colors": ["beige","grey","navy"], "material": "wool"},
+          {"en": "Wool cardigan", "ru": "Шерстяной кардиган", "price": 22900, "image": "🧶", "sizes": ["S","M","L"], "colors": ["beige","brown"], "material": "wool"}
+        ]},
+        {"name_en": "Socks", "name_ru": "Носки", "products": [
+          {"en": "Socks, 3 pairs", "ru": "Носки, 3 пары", "price": 2900, "image": "🧦", "sizes": ["S","M","L"], "colors": ["black","white"], "material": "cotton"}
+        ]}
+      ]
+    },
+    {
+      "slug": "saryarka-outdoor", "name": "Saryarka Outdoor", "category": "clothes", "mall": "abu-dhabi-plaza",
+      "lat": 51.12220, "lng": 71.42760, "address_en": "Abu Dhabi Plaza, 3rd floor", "address_ru": "Абу-Даби Плаза, 3 этаж",
+      "description_en": "Warm clothes for Astana winters: down jackets, wool and thermal wear.",
+      "description_ru": "Тёплая одежда для астанинской зимы: пуховики, шерсть и термобельё.",
+      "hours": "10:00–22:00", "rating": 4.8, "logo": "🏔️", "base_orders": 5,
+      "categories": [
+        {"name_en": "Outerwear", "name_ru": "Верхняя одежда", "products": [
+          {"en": "Down jacket -30°C", "ru": "Пуховик до -30°C", "price": 69900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["black","khaki","navy"], "material": "polyester", "desc_en": "90/10 goose down, windproof shell.", "desc_ru": "Гусиный пух 90/10, ветрозащитная ткань."},
+          {"en": "Winter parka", "ru": "Зимняя парка", "price": 79900, "image": "🧥", "sizes": ["M","L","XL"], "colors": ["khaki","black"], "material": "polyester"},
+          {"en": "Fleece jacket", "ru": "Флисовая куртка", "price": 24900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["grey","green"], "material": "fleece"},
+          {"en": "Softshell jacket", "ru": "Софтшелл куртка", "price": 34900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["black"], "material": "polyester"}
+        ]},
+        {"name_en": "Hoodies", "name_ru": "Худи", "products": [
+          {"en": "Wool hoodie", "ru": "Шерстяное худи", "price": 29900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["grey","beige"], "material": "wool"},
+          {"en": "Thermal hoodie", "ru": "Термо-худи", "price": 19900, "image": "🧥", "sizes": ["S","M","L","XL"], "colors": ["black","red"], "material": "polyester"}
+        ]},
+        {"name_en": "Shoes", "name_ru": "Обувь", "products": [
+          {"en": "Winter leather boots", "ru": "Зимние кожаные ботинки", "price": 49900, "image": "🥾", "sizes": ["39","40","41","42","43","44"], "colors": ["brown","black"], "material": "leather"},
+          {"en": "Trail sneakers", "ru": "Треккинговые кроссовки", "price": 39900, "image": "👟", "sizes": ["38","39","40","41","42","43","44"], "colors": ["grey","black"], "material": "polyester"}
+        ]},
+        {"name_en": "Accessories", "name_ru": "Аксессуары", "products": [
+          {"en": "Wool scarf", "ru": "Шерстяной шарф", "price": 7900, "image": "🧣", "colors": ["grey","red","beige"], "material": "wool"},
+          {"en": "Thermal gloves", "ru": "Термоперчатки", "price": 6900, "image": "🧤", "sizes": ["S","M","L"], "colors": ["black"], "material": "polyester"}
+        ]}
+      ]
+    },
+    {
+      "slug": "dala-market", "name": "Dala Market", "category": "grocery", "mall": "",
+      "lat": 51.12120, "lng": 71.44050, "address_en": "Mangilik El Ave 30", "address_ru": "пр. Мангилик Ел, 30",
+      "description_en": "Farm products from Akmola region: dairy, meat, fruit and vegetables.",
+      "description_ru": "Фермерские продукты Акмолинской области: молочное, мясо, фрукты и овощи.",
+      "hours": "08:00–23:00", "rating": 4.6, "logo": "🛒", "base_orders": 20,
+      "categories": [
+        {"name_en": "Dairy", "name_ru": "Молочные продукты", "products": [
+          {"en": "Milk 1 L", "ru": "Молоко 1 л", "price": 650, "image": "🥛"},
+          {"en": "Kefir 1 L", "ru": "Кефир 1 л", "price": 700, "image": "🥛"},
+          {"en": "Kurt 200 g", "ru": "Курт 200 г", "price": 900, "image": "⚪"},
+          {"en": "Butter 200 g", "ru": "Сливочное масло 200 г", "price": 800, "image": "🧈"},
+          {"en": "Eggs, 10 pcs", "ru": "Яйца, 10 шт.", "price": 1100, "image": "🥚"}
+        ]},
+        {"name_en": "Fruit & vegetables", "name_ru": "Фрукты и овощи", "products": [
+          {"en": "Apples 1 kg", "ru": "Яблоки 1 кг", "price": 900, "image": "🍎"},
+          {"en": "Bananas 1 kg", "ru": "Бананы 1 кг", "price": 1100, "image": "🍌"},
+          {"en": "Tomatoes 1 kg", "ru": "Помидоры 1 кг", "price": 1400, "image": "🍅"},
+          {"en": "Potatoes 1 kg", "ru": "Картофель 1 кг", "price": 350, "image": "🥔"}
+        ]},
+        {"name_en": "Meat", "name_ru": "Мясо", "products": [
+          {"en": "Beef 1 kg", "ru": "Говядина 1 кг", "price": 4800, "image": "🥩"},
+          {"en": "Kazy (horse sausage) 1 kg", "ru": "Казы 1 кг", "price": 8500, "image": "🌭"},
+          {"en": "Chicken 1 kg", "ru": "Курица 1 кг", "price": 2200, "image": "🍗"}
+        ]},
+        {"name_en": "Drinks", "name_ru": "Напитки", "products": [
+          {"en": "Water 1.5 L", "ru": "Вода 1,5 л", "price": 300, "image": "💧"},
+          {"en": "Apple juice 1 L", "ru": "Яблочный сок 1 л", "price": 850, "image": "🧃"},
+          {"en": "Black tea, 100 bags", "ru": "Чёрный чай, 100 пакетиков", "price": 1700, "image": "🍵"}
+        ]}
+      ]
+    },
+    {
+      "slug": "fresh-corner", "name": "Fresh Corner", "category": "grocery", "mall": "",
+      "lat": 51.12600, "lng": 71.40650, "address_en": "Turan Ave 24", "address_ru": "пр. Туран, 24",
+      "description_en": "24/7 convenience store with ready meals.",
+      "description_ru": "Круглосуточный магазин у дома с готовой едой.",
+      "hours": "24/7", "rating": 4.3, "logo": "🏪", "base_orders": 14,
+      "categories": [
+        {"name_en": "Ready meals", "name_ru": "Готовая еда", "products": [
+          {"en": "Plov box", "ru": "Плов, ланчбокс", "price": 2500, "image": "🍛"},
+          {"en": "Caesar salad", "ru": "Салат Цезарь", "price": 2200, "image": "🥗"},
+          {"en": "Manti, 6 pcs", "ru": "Манты, 6 шт.", "price": 2400, "image": "🥟"}
+        ]},
+        {"name_en": "Snacks", "name_ru": "Снеки", "products": [
+          {"en": "Potato chips", "ru": "Чипсы", "price": 900, "image": "🥔"},
+          {"en": "Nut mix", "ru": "Ореховый микс", "price": 1500, "image": "🥜"},
+          {"en": "Chocolate bar", "ru": "Шоколад", "price": 700, "image": "🍫"}
+        ]},
+        {"name_en": "Drinks", "name_ru": "Напитки", "products": [
+          {"en": "Cola 1 L", "ru": "Кола 1 л", "price": 650, "image": "🥤"},
+          {"en": "Energy drink", "ru": "Энергетик", "price": 750, "image": "⚡"}
+        ]},
+        {"name_en": "Household", "name_ru": "Хозтовары", "products": [
+          {"en": "Paper napkins", "ru": "Бумажные салфетки", "price": 400, "image": "🧻"},
+          {"en": "Dish soap", "ru": "Средство для посуды", "price": 1100, "image": "🧴"}
+        ]}
+      ]
+    },
+    {
+      "slug": "densaulyk-pharmacy", "name": "Densaulyk Pharmacy", "category": "pharmacy", "mall": "",
+      "lat": 51.12860, "lng": 71.41990, "address_en": "Kabanbay Batyr Ave 15", "address_ru": "пр. Кабанбай батыра, 15",
+      "description_en": "Pharmacy with delivery in 1 hour. Pharmacist consultation in chat.",
+      "description_ru": "Аптека с доставкой за 1 час. Консультация фармацевта в чате.",
+      "hours": "08:00–23:00", "rating": 4.7, "logo": "💊", "base_orders": 11,
+      "categories": [
+        {"name_en": "Cold & flu", "name_ru": "Простуда и грипп", "products": [
+          {"en": "Paracetamol 500 mg, 20 tabs", "ru": "Парацетамол 500 мг, 20 таб.", "price": 450, "image": "💊"},
+          {"en": "Ibuprofen 400 mg, 20 tabs", "ru": "Ибупрофен 400 мг, 20 таб.", "price": 900, "image": "💊"},
+          {"en": "Throat lozenges", "ru": "Пастилки для горла", "price": 1200, "image": "🍬"},
+          {"en": "Nasal spray", "ru": "Спрей для носа", "price": 1500, "image": "🧴"}
+        ]},
+        {"name_en": "Vitamins", "name_ru": "Витамины", "products": [
+          {"en": "Vitamin C 1000 mg", "ru": "Витамин C 1000 мг", "price": 2900, "image": "🍊"},
+          {"en": "Vitamin D3 2000 IU", "ru": "Витамин D3 2000 МЕ", "price": 3500, "image": "☀️"},
+          {"en": "Omega-3", "ru": "Омега-3", "price": 5900, "image": "🐟"},
+          {"en": "Zinc", "ru": "Цинк", "price": 2500, "image": "💊"}
+        ]},
+        {"name_en": "Personal care", "name_ru": "Уход", "products": [
+          {"en": "Hand cream", "ru": "Крем для рук", "price": 1900, "image": "🧴"},
+          {"en": "Sunscreen SPF 50", "ru": "Солнцезащитный крем SPF 50", "price": 6900, "image": "🧴"},
+          {"en": "Medical masks, 50 pcs", "ru": "Медицинские маски, 50 шт.", "price": 2500, "image": "😷"},
+          {"en": "Digital thermometer", "ru": "Электронный термометр", "price": 3900, "image": "🌡️"}
+        ]}
+      ]
+    },
+    {
+      "slug": "shipa-pharm", "name": "Shipa Pharm", "category": "pharmacy", "mall": "",
+      "lat": 51.16650, "lng": 71.44400, "address_en": "Abay Ave 50", "address_ru": "пр. Абая, 50",
+      "description_en": "Family pharmacy: medicines, baby care and first aid.",
+      "description_ru": "Семейная аптека: лекарства, товары для малышей и первая помощь.",
+      "hours": "24/7", "rating": 4.5, "logo": "⚕️", "base_orders": 9,
+      "categories": [
+        {"name_en": "Medicines", "name_ru": "Лекарства", "products": [
+          {"en": "Activated charcoal", "ru": "Активированный уголь", "price": 300, "image": "⚫"},
+          {"en": "Antiseptic spray", "ru": "Антисептик-спрей", "price": 1200, "image": "🧴"},
+          {"en": "Allergy tablets", "ru": "Таблетки от аллергии", "price": 2100, "image": "💊"}
+        ]},
+        {"name_en": "Baby care", "name_ru": "Для малышей", "products": [
+          {"en": "Diapers size 4, 44 pcs", "ru": "Подгузники 4, 44 шт.", "price": 8900, "image": "👶"},
+          {"en": "Baby cream", "ru": "Детский крем", "price": 2400, "image": "🧴"},
+          {"en": "Baby wipes", "ru": "Влажные салфетки", "price": 1200, "image": "🧻"}
+        ]},
+        {"name_en": "First aid", "name_ru": "Первая помощь", "products": [
+          {"en": "Bandages", "ru": "Бинты", "price": 600, "image": "🩹"},
+          {"en": "First aid kit", "ru": "Аптечка", "price": 7900, "image": "🧰"},
+          {"en": "Hot water bottle", "ru": "Грелка", "price": 3200, "image": "♨️"}
+        ]}
+      ]
+    },
+    {
+      "slug": "volt-electronics", "name": "Volt Electronics", "category": "electronics", "mall": "mega-silk-way",
+      "lat": 51.08875, "lng": 71.40790, "address_en": "Mega Silk Way, 2nd floor", "address_ru": "Мега Силк Вей, 2 этаж",
+      "description_en": "Phones, audio and smart home. 12-month warranty, Kaspi installments.",
+      "description_ru": "Смартфоны, аудио и умный дом. Гарантия 12 месяцев, рассрочка Kaspi.",
+      "hours": "10:00–22:00", "rating": 4.6, "logo": "📱", "base_orders": 4,
+      "categories": [
+        {"name_en": "Smartphones", "name_ru": "Смартфоны", "products": [
+          {"en": "Nova X5 128 GB", "ru": "Nova X5 128 ГБ", "price": 149900, "image": "📱", "colors": ["black","blue"]},
+          {"en": "Nova X5 Pro 256 GB", "ru": "Nova X5 Pro 256 ГБ", "price": 219900, "image": "📱", "colors": ["black","white"]},
+          {"en": "Lite S2 64 GB", "ru": "Lite S2 64 ГБ", "price": 79900, "image": "📱", "colors": ["black","green"]}
+        ]},
+        {"name_en": "Audio", "name_ru": "Аудио", "products": [
+          {"en": "Wireless earbuds", "ru": "Беспроводные наушники", "price": 24900, "image": "🎧", "colors": ["white","black"]},
+          {"en": "Over-ear headphones ANC", "ru": "Полноразмерные наушники с шумоподавлением", "price": 49900, "image": "🎧", "colors": ["black","beige"]},
+          {"en": "Bluetooth speaker", "ru": "Bluetooth-колонка", "price": 19900, "image": "🔊", "colors": ["black","blue"]}
+        ]},
+        {"name_en": "Accessories", "name_ru": "Аксессуары", "products": [
+          {"en": "Fast charger 65 W", "ru": "Быстрая зарядка 65 Вт", "price": 9900, "image": "🔌"},
+          {"en": "USB-C cable 2 m", "ru": "Кабель USB-C 2 м", "price": 2900, "image": "🔌"},
+          {"en": "Power bank 20000 mAh", "ru": "Пауэрбанк 20000 мАч", "price": 14900, "image": "🔋"},
+          {"en": "Phone case", "ru": "Чехол для телефона", "price": 4900, "image": "📱", "colors": ["black","pink","blue"]}
+        ]},
+        {"name_en": "Smart home", "name_ru": "Умный дом", "products": [
+          {"en": "Smart bulb", "ru": "Умная лампа", "price": 5900, "image": "💡"},
+          {"en": "Smart plug", "ru": "Умная розетка", "price": 6900, "image": "🔌"},
+          {"en": "Wi-Fi 6 router", "ru": "Роутер Wi-Fi 6", "price": 24900, "image": "📶"}
+        ]}
+      ]
+    },
+    {
+      "slug": "smart-point", "name": "Smart Point", "category": "electronics", "mall": "keruen",
+      "lat": 51.12755, "lng": 71.42565, "address_en": "Keruen, 3rd floor", "address_ru": "Керуен, 3 этаж",
+      "description_en": "Laptops, tablets and gaming gear. Trade-in available.",
+      "description_ru": "Ноутбуки, планшеты и игровые аксессуары. Есть трейд-ин.",
+      "hours": "10:00–22:00", "rating": 4.4, "logo": "💻", "base_orders": 3,
+      "categories": [
+        {"name_en": "Laptops", "name_ru": "Ноутбуки", "products": [
+          {"en": "Laptop Aero 14", "ru": "Ноутбук Aero 14", "price": 389900, "image": "💻", "colors": ["grey"]},
+          {"en": "Laptop Work 15", "ru": "Ноутбук Work 15", "price": 299900, "image": "💻", "colors": ["black"]}
+        ]},
+        {"name_en": "Tablets", "name_ru": "Планшеты", "products": [
+          {"en": "Tablet 10\"", "ru": "Планшет 10\"", "price": 129900, "image": "📲", "colors": ["grey","blue"]},
+          {"en": "Tablet mini 8\"", "ru": "Планшет мини 8\"", "price": 89900, "image": "📲", "colors": ["grey"]}
+        ]},
+        {"name_en": "Gaming", "name_ru": "Гейминг", "products": [
+          {"en": "Gamepad", "ru": "Геймпад", "price": 19900, "image": "🎮", "colors": ["black","white"]},
+          {"en": "Gaming mouse", "ru": "Игровая мышь", "price": 14900, "image": "🖱️"},
+          {"en": "Mechanical keyboard", "ru": "Механическая клавиатура", "price": 29900, "image": "⌨️"}
+        ]},
+        {"name_en": "Accessories", "name_ru": "Аксессуары", "products": [
+          {"en": "Laptop backpack", "ru": "Рюкзак для ноутбука", "price": 14900, "image": "🎒", "colors": ["black","grey"]},
+          {"en": "Monitor 27\"", "ru": "Монитор 27\"", "price": 119900, "image": "🖥️"}
+        ]}
+      ]
+    },
+    {
+      "slug": "lale-flowers", "name": "Lale Flowers", "category": "flowers", "mall": "",
+      "lat": 51.13080, "lng": 71.42800, "address_en": "Nurzhol Blvd 8", "address_ru": "бул. Нуржол, 8",
+      "description_en": "Flower studio near Baiterek. Delivery across Astana in 90 minutes.",
+      "description_ru": "Цветочная студия у Байтерека. Доставка по Астане за 90 минут.",
+      "hours": "08:00–22:00", "rating": 4.9, "logo": "💐", "base_orders": 7,
+      "categories": [
+        {"name_en": "Bouquets", "name_ru": "Букеты", "products": [
+          {"en": "Bouquet \"Spring\"", "ru": "Букет «Весна»", "price": 14900, "image": "💐"},
+          {"en": "Steppe tulips, 25 pcs", "ru": "Степные тюльпаны, 25 шт.", "price": 17900, "image": "🌷"},
+          {"en": "Peony bouquet", "ru": "Букет из пионов", "price": 24900, "image": "🌸"}
+        ]},
+        {"name_en": "Roses", "name_ru": "Розы", "products": [
+          {"en": "Red roses, 11 pcs", "ru": "Красные розы, 11 шт.", "price": 15900, "image": "🌹"},
+          {"en": "Roses, 25 pcs", "ru": "Розы, 25 шт.", "price": 32900, "image": "🌹"},
+          {"en": "Roses, 51 pcs", "ru": "Розы, 51 шт.", "price": 59900, "image": "🌹"}
+        ]},
+        {"name_en": "Plants", "name_ru": "Растения", "products": [
+          {"en": "Orchid in a pot", "ru": "Орхидея в горшке", "price": 12900, "image": "🪴"},
+          {"en": "Succulent set", "ru": "Набор суккулентов", "price": 6900, "image": "🌵"},
+          {"en": "Monstera", "ru": "Монстера", "price": 15900, "image": "🪴"}
+        ]},
+        {"name_en": "Gifts", "name_ru": "Подарки", "products": [
+          {"en": "Teddy bear", "ru": "Плюшевый мишка", "price": 7900, "image": "🧸"},
+          {"en": "Chocolate box", "ru": "Коробка конфет", "price": 5900, "image": "🍫"},
+          {"en": "Greeting card", "ru": "Открытка", "price": 900, "image": "💌"}
+        ]}
+      ]
+    }
+  ]
+}

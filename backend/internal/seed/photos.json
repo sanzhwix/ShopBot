@@ -1,0 +1,614 @@
+{
+ "nan-and-co|Sourdough loaf": {
+  "photo": "/products/nan-and-co/sourdough-loaf.jpg",
+  "credit": "Sourdough bread - January 2026 - Sarah Stierch 01 — Missvain, CC0 1.0"
+ },
+ "nan-and-co|Baguette": {
+  "photo": "/products/nan-and-co/baguette.jpg",
+  "credit": "Baguettes - stonesoup — jules / stonesoup, CC BY 2.0"
+ },
+ "nan-and-co|Rye bread with caraway": {
+  "photo": "/products/nan-and-co/rye-bread-with-caraway.jpg",
+  "credit": "Dark rye bread — Glane23, CC BY-SA 3.0"
+ },
+ "nan-and-co|Tandyr nan": {
+  "photo": "/products/nan-and-co/tandyr-nan.jpg",
+  "credit": "Bread market Dushanbe — Mr. Gadi Zafrir, CC BY-SA 3.0"
+ },
+ "nan-and-co|Ciabatta": {
+  "photo": "/products/nan-and-co/ciabatta.jpg",
+  "credit": "Ciabatta cut — Vincent Talleu, CC BY-SA 3.0"
+ },
+ "nan-and-co|Butter croissant": {
+  "photo": "/products/nan-and-co/butter-croissant.jpg",
+  "credit": "Croissants au beurre (18953292873) — Herry Wibisono (herryway), CC0 1.0"
+ },
+ "nan-and-co|Almond croissant": {
+  "photo": "/products/nan-and-co/almond-croissant.jpg",
+  "credit": "Almond croissant - Bread & Milk 2024-06-27 — Andy Li, CC0 1.0"
+ },
+ "nan-and-co|Pain au chocolat": {
+  "photo": "/products/nan-and-co/pain-au-chocolat.jpg",
+  "credit": "Pain au chocolat Luc Viatour — Luc Viatour, CC BY-SA 3.0"
+ },
+ "nan-and-co|Cinnamon roll": {
+  "photo": "/products/nan-and-co/cinnamon-roll.jpg",
+  "credit": "Rollo de canela (Cinnamon roll) — Horacio Cambeiro, CC BY-SA 3.0"
+ },
+ "nan-and-co|Baursak box (12 pcs)": {
+  "photo": "/products/nan-and-co/baursak-box-12-pcs.jpg",
+  "credit": "Boortsog 2 — Brücke-Osteuropa, Public Domain"
+ },
+ "nan-and-co|Napoleon slice": {
+  "photo": "/products/nan-and-co/napoleon-slice.jpg",
+  "credit": "Mille-feuille 20100916 — Georges Seguin (Okki), CC BY-SA 3.0"
+ },
+ "nan-and-co|Honey cake slice": {
+  "photo": "/products/nan-and-co/honey-cake-slice.jpg",
+  "credit": "Medovik — Edinburgh blog, CC BY 2.0"
+ },
+ "nan-and-co|New York cheesecake": {
+  "photo": "/products/nan-and-co/new-york-cheesecake.jpg",
+  "credit": "Baked cheesecake with raspberries and blueberries — zingyyellow, CC BY 2.0"
+ },
+ "nan-and-co|Chak-chak": {
+  "photo": "/products/nan-and-co/chak-chak.jpg",
+  "credit": "Chak-chak-made 02 — Pannet, CC BY 4.0"
+ },
+ "nan-and-co|Cappuccino": {
+  "photo": "/products/nan-and-co/cappuccino.jpg",
+  "credit": "Classical Cappuccino in Savour Cafe — Peachyeung316, CC BY-SA 4.0"
+ },
+ "nan-and-co|Latte": {
+  "photo": "/products/nan-and-co/latte.jpg",
+  "credit": "Caffè Latte at Sainsbury's Low Hall, Chingford, London 1 — Acabashi, CC BY-SA 4.0"
+ },
+ "nan-and-co|Black tea with milk": {
+  "photo": "/products/nan-and-co/black-tea-with-milk.jpg",
+  "credit": "Milk Tea 3 — Gaurav Dhwaj Khadka, CC BY-SA 4.0"
+ },
+ "nan-and-co|Fresh orange juice": {
+  "photo": "/products/nan-and-co/fresh-orange-juice.jpg",
+  "credit": "Lemon Juice — WDnet Studio, CC0 1.0"
+ },
+ "baursak-house|Classic baursaks (10 pcs)": {
+  "photo": "/products/baursak-house/classic-baursaks-10-pcs.jpg",
+  "credit": "Тоқаш(бауырсақ) — Bbj, CC BY-SA 4.0"
+ },
+ "baursak-house|Sweet baursaks (10 pcs)": {
+  "photo": "/products/baursak-house/sweet-baursaks-10-pcs.jpg",
+  "credit": "Kazakh culture Baursak — Armanilo, CC BY 4.0"
+ },
+ "baursak-house|Mini baursak party box": {
+  "photo": "/products/baursak-house/mini-baursak-party-box.jpg",
+  "credit": "Kazakh Baursak — Kurmanbek, CC BY-SA 4.0"
+ },
+ "baursak-house|Tandyr samsa with beef": {
+  "photo": "/products/baursak-house/tandyr-samsa-with-beef.jpg",
+  "credit": "Samsa at Gülhan Restaurant, Beijing (20210402171539) — N509FZ, CC BY-SA 4.0"
+ },
+ "baursak-house|Pumpkin samsa": {
+  "photo": "/products/baursak-house/pumpkin-samsa.jpg",
+  "credit": "Samsa (gâteau) — 3esban, CC BY-SA 4.0"
+ },
+ "baursak-house|Chicken samsa": {
+  "photo": "/products/baursak-house/chicken-samsa.jpg",
+  "credit": "'Parmuda'-uzbek samsa-02 — Shuhrataxmedov, CC BY-SA 3.0"
+ },
+ "baursak-house|Lamb samsa": {
+  "photo": "/products/baursak-house/lamb-samsa.jpg",
+  "credit": "Tandir somsa — J.Doniyorovich, CC0 1.0"
+ },
+ "baursak-house|Chak-chak with honey": {
+  "photo": "/products/baursak-house/chak-chak-with-honey.jpg",
+  "credit": "Chak-chak01 — Panpanchik, CC BY 4.0"
+ },
+ "baursak-house|Kurt gift box": {
+  "photo": "/products/baursak-house/kurt-gift-box.jpg",
+  "credit": "Different types of qurut on a plate — Karachun, CC BY 4.0"
+ },
+ "baursak-house|Talkan sweets": {
+  "photo": "/products/baursak-house/talkan-sweets.jpg",
+  "credit": "Iraqi Halva-Mosul 01 — Abdulsalam Al Dabbagh, CC BY-SA 4.0"
+ },
+ "baursak-house|Kymyz 0.5 L": {
+  "photo": "/products/baursak-house/kymyz-0-5-l.jpg",
+  "credit": "Kumys-bottle — A.Savin, CC BY-SA 3.0"
+ },
+ "baursak-house|Shubat 0.5 L": {
+  "photo": "/products/baursak-house/shubat-0-5-l.jpg",
+  "credit": "Shubat — Upyernoz on Flickr, CC BY 2.0"
+ },
+ "baursak-house|Tea with milk": {
+  "photo": "/products/baursak-house/tea-with-milk.jpg",
+  "credit": "Kazakh woman serving tea — Altaihunters, CC BY-SA 3.0"
+ },
+ "golden-crust|Whole-grain bread": {
+  "photo": "/products/golden-crust/whole-grain-bread.jpg",
+  "credit": "Home made whole grain bread — Tomascastelazo, CC BY-SA 4.0"
+ },
+ "golden-crust|Bagels (4 pcs)": {
+  "photo": "/products/golden-crust/bagels-4-pcs.jpg",
+  "credit": "Shug's Bagels, Maple Street, New Orleans 28 September 202… — Infrogmation, CC BY-SA 4.0"
+ },
+ "golden-crust|Red velvet cake, 1.2 kg": {
+  "photo": "/products/golden-crust/red-velvet-cake-1-2-kg.jpg",
+  "credit": "Red velvet cake slice — Flickr user ~Twon~ : https://www.flickr., CC BY 2.0"
+ },
+ "golden-crust|Chocolate cake, 1.2 kg": {
+  "photo": "/products/golden-crust/chocolate-cake-1-2-kg.jpg",
+  "credit": "Chocolate cake in Tokyo — Syced, CC0 1.0"
+ },
+ "golden-crust|Tiramisu": {
+  "photo": "/products/golden-crust/tiramisu.jpg",
+  "credit": "Classic Italian Tiramisu-3 (29989504485) — Sharon Chen from Austin, United States, CC BY 2.0"
+ },
+ "golden-crust|Oat cookies (6 pcs)": {
+  "photo": "/products/golden-crust/oat-cookies-6-pcs.jpg",
+  "credit": "Oatmeal Cookies with orange zest, golden raisins, and cho… — Paul Martin, CC BY 2.0"
+ },
+ "golden-crust|Macarons (6 pcs)": {
+  "photo": "/products/golden-crust/macarons-6-pcs.jpg",
+  "credit": "Des macarons de chez Bouillet (mars 2023) — Benoît Prieur, CC0 1.0"
+ },
+ "golden-crust|Brownie": {
+  "photo": "/products/golden-crust/brownie.jpg",
+  "credit": "Chocolate Brownie — JESHOOTS.com, CC0 1.0"
+ },
+ "steppe-wear|Oversized hoodie \"Steppe\"": {
+  "photo": "/products/steppe-wear/oversized-hoodie-steppe.jpg",
+  "credit": "Hoodie m7agar — YoussefTahoun, CC0 1.0"
+ },
+ "steppe-wear|Zip hoodie fleece": {
+  "photo": "/products/steppe-wear/zip-hoodie-fleece.jpg",
+  "credit": "Dolphins NRL men's zipped hoodie — Sampajanna, CC BY-SA 4.0"
+ },
+ "steppe-wear|Ornament hoodie": {
+  "photo": "/products/steppe-wear/ornament-hoodie.jpg",
+  "credit": "Fastcolors-men fashion sweatshirt-back-printed — FastColors, CC BY-SA 2.5"
+ },
+ "steppe-wear|Basic tee": {
+  "photo": "/products/steppe-wear/basic-tee.jpg",
+  "credit": "Wiki Loves Bangla T-Shirt White — Moheen Reeyad, CC BY-SA 4.0"
+ },
+ "steppe-wear|Graphic tee \"Nomad\"": {
+  "photo": "/products/steppe-wear/graphic-tee-nomad.jpg",
+  "credit": "T shirt with print imitating traditional Belarusian embro… — Victoria, CC BY-SA 4.0"
+ },
+ "steppe-wear|Long-sleeve tee": {
+  "photo": "/products/steppe-wear/long-sleeve-tee.jpg",
+  "credit": "Men's long-sleeve T-shirt — Spreadshirt, CC BY 2.0"
+ },
+ "steppe-wear|Cargo pants": {
+  "photo": "/products/steppe-wear/cargo-pants.jpg",
+  "credit": "Cargo pants 001 — Ocdp, CC0 1.0"
+ },
+ "steppe-wear|Joggers": {
+  "photo": "/products/steppe-wear/joggers.jpg",
+  "credit": "HK TKO 將軍澳 Tseung Kwan O PopCorn mall shop Uniqlo Clothin… — Tisahd 23 HAOEYVMA, CC BY-SA 4.0"
+ },
+ "steppe-wear|Knit beanie": {
+  "photo": "/products/steppe-wear/knit-beanie.jpg",
+  "credit": "Blue knit-cap beanie by RobertLender — Robert Lender from Vienna, Austria, post, CC BY-SA 2.0"
+ },
+ "steppe-wear|Canvas tote bag": {
+  "photo": "/products/steppe-wear/canvas-tote-bag.jpg",
+  "credit": "Tote bag-making 09 — Aminwa 21, CC BY-SA 4.0"
+ },
+ "steppe-wear|Baseball cap": {
+  "photo": "/products/steppe-wear/baseball-cap.jpg",
+  "credit": "Baseball cap — Original photograph by TexasRebelDerivat, CC BY 4.0"
+ },
+ "nomad-denim|Slim jeans": {
+  "photo": "/products/nomad-denim/slim-jeans.jpg",
+  "credit": "Women's Levi's jeans inside out — 1Veertje, CC BY-SA 4.0"
+ },
+ "nomad-denim|Straight jeans": {
+  "photo": "/products/nomad-denim/straight-jeans.jpg",
+  "credit": "Blue Jeans — Seacoast Sage, CC0 1.0"
+ },
+ "nomad-denim|Wide-leg jeans": {
+  "photo": "/products/nomad-denim/wide-leg-jeans.jpg",
+  "credit": "Jeans — Levi Strauss & Co., CC0 1.0"
+ },
+ "nomad-denim|Denim jacket": {
+  "photo": "/products/nomad-denim/denim-jacket.jpg",
+  "credit": "Jean jacket — NikosLikomitros, CC0 1.0"
+ },
+ "nomad-denim|Sherpa denim jacket": {
+  "photo": "/products/nomad-denim/sherpa-denim-jacket.jpg",
+  "credit": "Jean Jacket, Red Hair, and a Short Black Floral Romper (1… — Jamie, CC BY-SA 2.0"
+ },
+ "nomad-denim|Denim shirt": {
+  "photo": "/products/nomad-denim/denim-shirt.jpg",
+  "credit": "Denim shirts & chinos — Vibeakimbo, CC BY 2.0"
+ },
+ "nomad-denim|Oxford shirt": {
+  "photo": "/products/nomad-denim/oxford-shirt.jpg",
+  "credit": "Collar.agr — ArnoldReinhold, CC BY-SA 3.0"
+ },
+ "nomad-denim|Denim-patch hoodie": {
+  "photo": "/products/nomad-denim/denim-patch-hoodie.jpg",
+  "credit": "Dark Grey — Patryk Sobczak, CC0 1.0"
+ },
+ "tumar-basics|Organic cotton tee": {
+  "photo": "/products/tumar-basics/organic-cotton-tee.jpg",
+  "credit": "Ambigram Ideal, polysymmetrical logo printed on a green T… — Basile Morin, CC BY-SA 4.0"
+ },
+ "tumar-basics|Polo shirt": {
+  "photo": "/products/tumar-basics/polo-shirt.jpg",
+  "credit": "Vintage 90's Lacoste Polo Shirt — Quercus acuta, CC BY-SA 4.0"
+ },
+ "tumar-basics|Basic hoodie": {
+  "photo": "/products/tumar-basics/basic-hoodie.jpg",
+  "credit": "Sonoma Raceway hoodie - June 2023 - Sarah Stierch — Missvain, CC BY 4.0"
+ },
+ "tumar-basics|Sport hoodie": {
+  "photo": "/products/tumar-basics/sport-hoodie.jpg",
+  "credit": "Black Zipper Hoodie Graphic T Shirt — Kauey, CC BY-SA 4.0"
+ },
+ "tumar-basics|Merino sweater": {
+  "photo": "/products/tumar-basics/merino-sweater.jpg",
+  "credit": "Swiss Army Wool Sweater (15695462777) — Andrew Toskin, CC BY 2.0"
+ },
+ "tumar-basics|Wool cardigan": {
+  "photo": "/products/tumar-basics/wool-cardigan.jpg",
+  "credit": "Doll's Peach Wool Sweater — Wikimedia Commons, Public Domain"
+ },
+ "tumar-basics|Socks, 3 pairs": {
+  "photo": "/products/tumar-basics/socks-3-pairs.jpg",
+  "credit": "Socks 2024 — Samachoa, CC0 1.0"
+ },
+ "saryarka-outdoor|Down jacket -30°C": {
+  "photo": "/products/saryarka-outdoor/down-jacket-30-c.jpg",
+  "credit": "OutDoor 2018, Friedrichshafen (1X7A0285) — Matti Blume, CC BY-SA 4.0"
+ },
+ "saryarka-outdoor|Winter parka": {
+  "photo": "/products/saryarka-outdoor/winter-parka.jpg",
+  "credit": "2023 Women Parka Winter Jacket Middle Old Hooded Mid Long… — webmy01en, Public Domain 1.0"
+ },
+ "saryarka-outdoor|Fleece jacket": {
+  "photo": "/products/saryarka-outdoor/fleece-jacket.jpg",
+  "credit": "Ladies fleece jacket — Rydale Country Clothing, CC BY 2.0"
+ },
+ "saryarka-outdoor|Softshell jacket": {
+  "photo": "/products/saryarka-outdoor/softshell-jacket.jpg",
+  "credit": "Softshelljacke — Graf Foto, CC BY-SA 3.0"
+ },
+ "saryarka-outdoor|Wool hoodie": {
+  "photo": "/products/saryarka-outdoor/wool-hoodie.jpg",
+  "credit": "Knitted Sweater — Kyle Cassidy, CC BY-SA 4.0"
+ },
+ "saryarka-outdoor|Thermal hoodie": {
+  "photo": "/products/saryarka-outdoor/thermal-hoodie.jpg",
+  "credit": "Red hoodie and snapback (52774092806) — Hoodype, CC BY-SA 2.0"
+ },
+ "saryarka-outdoor|Winter leather boots": {
+  "photo": "/products/saryarka-outdoor/winter-leather-boots.jpg",
+  "credit": "Leather Goodyear welt example — Best For My Feet, CC BY-SA 4.0"
+ },
+ "saryarka-outdoor|Trail sneakers": {
+  "photo": "/products/saryarka-outdoor/trail-sneakers.jpg",
+  "credit": "Jack Wolfskin, OutDoor 2018, Friedrichshafen (1X7A0425) — Matti Blume, CC BY-SA 4.0"
+ },
+ "saryarka-outdoor|Wool scarf": {
+  "photo": "/products/saryarka-outdoor/wool-scarf.jpg",
+  "credit": "Scarf soft — Simon Ebner, CC BY-SA 3.0"
+ },
+ "saryarka-outdoor|Thermal gloves": {
+  "photo": "/products/saryarka-outdoor/thermal-gloves.jpg",
+  "credit": "Leather gloves and ear warmers — Kristin from Oslo, Norway, CC BY 2.0"
+ },
+ "dala-market|Milk 1 L": {
+  "photo": "/products/dala-market/milk-1-l.jpg",
+  "credit": "Milk-bottle — FiveRings (talk), CC BY 3.0"
+ },
+ "dala-market|Kefir 1 L": {
+  "photo": "/products/dala-market/kefir-1-l.jpg",
+  "credit": "Ripe Water kefir (also known as Tibicos), after 2 days — Simon A. Eugster, CC BY-SA 3.0"
+ },
+ "dala-market|Kurt 200 g": {
+  "photo": "/products/dala-market/kurt-200-g.jpg",
+  "credit": "Kurt in Osh market — Adam Harangozó, CC BY-SA 4.0"
+ },
+ "dala-market|Butter 200 g": {
+  "photo": "/products/dala-market/butter-200-g.jpg",
+  "credit": "Block of butter 20200928 080156 — Salicyna, CC BY-SA 4.0"
+ },
+ "dala-market|Eggs, 10 pcs": {
+  "photo": "/products/dala-market/eggs-10-pcs.jpg",
+  "credit": "Free eggs carton image — unknown, CC0 1.0"
+ },
+ "dala-market|Apples 1 kg": {
+  "photo": "/products/dala-market/apples-1-kg.jpg",
+  "credit": "Australian Red delicious apples at the store — Maksym Kozlenko, CC BY-SA 4.0"
+ },
+ "dala-market|Bananas 1 kg": {
+  "photo": "/products/dala-market/bananas-1-kg.jpg",
+  "credit": "Single bananas in a bunch — Springnuts, CC BY-SA 4.0"
+ },
+ "dala-market|Tomatoes 1 kg": {
+  "photo": "/products/dala-market/tomatoes-1-kg.jpg",
+  "credit": "Tomato je — Softeis, CC BY-SA 3.0"
+ },
+ "dala-market|Potatoes 1 kg": {
+  "photo": "/products/dala-market/potatoes-1-kg.jpg",
+  "credit": "Solanum tuberosum Red Scarlett20170523 7825 — Bff, CC BY-SA 4.0"
+ },
+ "dala-market|Beef 1 kg": {
+  "photo": "/products/dala-market/beef-1-kg.jpg",
+  "credit": "Entrecôte, raw beef cut — unknown, CC0 1.0"
+ },
+ "dala-market|Kazy (horse sausage) 1 kg": {
+  "photo": "/products/dala-market/kazy-horse-sausage-1-kg.jpg",
+  "credit": "Horsemeat platter — Sara Yeomans, CC BY 2.0"
+ },
+ "dala-market|Chicken 1 kg": {
+  "photo": "/products/dala-market/chicken-1-kg.jpg",
+  "credit": "Free raw chicken be cooked — unknown, CC0 1.0"
+ },
+ "dala-market|Water 1.5 L": {
+  "photo": "/products/dala-market/water-1-5-l.jpg",
+  "credit": "Zamzam water in plastic bottle — Ahmer Jamil Khan, CC BY-SA 4.0"
+ },
+ "dala-market|Apple juice 1 L": {
+  "photo": "/products/dala-market/apple-juice-1-l.jpg",
+  "credit": "Russet apple juice — Zigzig20s, CC BY-SA 3.0"
+ },
+ "dala-market|Black tea, 100 bags": {
+  "photo": "/products/dala-market/black-tea-100-bags.jpg",
+  "credit": "Tea bags — André Karwath aka Aka, CC BY-SA 2.5"
+ },
+ "fresh-corner|Plov box": {
+  "photo": "/products/fresh-corner/plov-box.jpg",
+  "credit": "Polu — Mizu basyo at Japanese Wikipedia, CC BY-SA 3.0"
+ },
+ "fresh-corner|Caesar salad": {
+  "photo": "/products/fresh-corner/caesar-salad.jpg",
+  "credit": "Caesar Salad from Tony Roma Restaurant- March 2024 02 — Banej, CC BY-SA 4.0"
+ },
+ "fresh-corner|Potato chips": {
+  "photo": "/products/fresh-corner/potato-chips.jpg",
+  "credit": "Potato-Chips — Evan-Amos, Public Domain"
+ },
+ "fresh-corner|Nut mix": {
+  "photo": "/products/fresh-corner/nut-mix.jpg",
+  "credit": "Free mixed nuts shell image — unknown, CC0 1.0"
+ },
+ "fresh-corner|Chocolate bar": {
+  "photo": "/products/fresh-corner/chocolate-bar.jpg",
+  "credit": "2023 Baton Danusia Klasyczna — photo: Jacek Halicki, design and tradema, CC BY-SA 4.0"
+ },
+ "fresh-corner|Cola 1 L": {
+  "photo": "/products/fresh-corner/cola-1-l.jpg",
+  "credit": "Cola bottle aug 21 — Secretlondon, CC BY-SA 4.0"
+ },
+ "fresh-corner|Energy drink": {
+  "photo": "/products/fresh-corner/energy-drink.jpg",
+  "credit": "Energy Drink Battery Cans — Klooni, CC BY-SA 3.0"
+ },
+ "fresh-corner|Paper napkins": {
+  "photo": "/products/fresh-corner/paper-napkins.jpg",
+  "credit": "Napkins - isolated — Alanthebox, CC0 1.0"
+ },
+ "fresh-corner|Dish soap": {
+  "photo": "/products/fresh-corner/dish-soap.jpg",
+  "credit": "Tesco and Sainsburys own dishwashing liquid — Kai Hendry, CC BY 2.0"
+ },
+ "densaulyk-pharmacy|Paracetamol 500 mg, 20 tabs": {
+  "photo": "/products/densaulyk-pharmacy/paracetamol-500-mg-20-tabs.jpg",
+  "credit": "Medication Paracetamol — Mk2010, CC BY-SA 3.0"
+ },
+ "densaulyk-pharmacy|Ibuprofen 400 mg, 20 tabs": {
+  "photo": "/products/densaulyk-pharmacy/ibuprofen-400-mg-20-tabs.jpg",
+  "credit": "Pile Ibuprofen tablets — unknown, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Throat lozenges": {
+  "photo": "/products/densaulyk-pharmacy/throat-lozenges.jpg",
+  "credit": "Lozenge pill, medicine — unknown, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Nasal spray": {
+  "photo": "/products/densaulyk-pharmacy/nasal-spray.jpg",
+  "credit": "Penthenol nasal spray — Maxim Masiutin, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Vitamin C 1000 mg": {
+  "photo": "/products/densaulyk-pharmacy/vitamin-c-1000-mg.jpg",
+  "credit": "Vitamin C Tablets — Daniel Abugre Anyorigya, CC BY-SA 4.0"
+ },
+ "densaulyk-pharmacy|Vitamin D3 2000 IU": {
+  "photo": "/products/densaulyk-pharmacy/vitamin-d3-2000-iu.jpg",
+  "credit": "Bottle of Super-D oil capsules, London, England, 1940-1945 — Wikimedia Commons, CC BY 4.0"
+ },
+ "densaulyk-pharmacy|Omega-3": {
+  "photo": "/products/densaulyk-pharmacy/omega-3.jpg",
+  "credit": "Omega 3 Fish oil softgel capsules — Gpkp, CC BY-SA 4.0"
+ },
+ "densaulyk-pharmacy|Zinc": {
+  "photo": "/products/densaulyk-pharmacy/zinc.jpg",
+  "credit": "Iodine pills — Mx. Granger, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Hand cream": {
+  "photo": "/products/densaulyk-pharmacy/hand-cream.jpg",
+  "credit": "Woman applying cream to hand — Moose Photos (https://www.pexels.com/@mo, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Sunscreen SPF 50": {
+  "photo": "/products/densaulyk-pharmacy/sunscreen-spf-50.jpg",
+  "credit": "Sunscreen Sonnencreme in Zürich Switzerland — Alpantex, CC BY-SA 4.0"
+ },
+ "densaulyk-pharmacy|Medical masks, 50 pcs": {
+  "photo": "/products/densaulyk-pharmacy/medical-masks-50-pcs.jpg",
+  "credit": "A surgical mask (2017) — AlexChirkin, CC0 1.0"
+ },
+ "densaulyk-pharmacy|Digital thermometer": {
+  "photo": "/products/densaulyk-pharmacy/digital-thermometer.jpg",
+  "credit": "Digital Thermometer — Srini297, CC BY-SA 4.0"
+ },
+ "shipa-pharm|Activated charcoal": {
+  "photo": "/products/shipa-pharm/activated-charcoal.jpg",
+  "credit": "Активированный уголь 3 — BarbariSka88, CC0 1.0"
+ },
+ "shipa-pharm|Antiseptic spray": {
+  "photo": "/products/shipa-pharm/antiseptic-spray.jpg",
+  "credit": "Het komt allemaal wel goed, zo niet dan toch 6 — Renée Kools, CC BY 4.0"
+ },
+ "shipa-pharm|Allergy tablets": {
+  "photo": "/products/shipa-pharm/allergy-tablets.jpg",
+  "credit": "Pills & drugs, healthcare photo — unknown, CC0 1.0"
+ },
+ "shipa-pharm|Diapers size 4, 44 pcs": {
+  "photo": "/products/shipa-pharm/diapers-size-4-44-pcs.jpg",
+  "credit": "Diapers in the trash (1119014023) — Inga Munsinger Cotton from San Antonio, , CC BY 2.0"
+ },
+ "shipa-pharm|Baby cream": {
+  "photo": "/products/shipa-pharm/baby-cream.jpg",
+  "credit": "Day cream 02 — Benff, CC BY-SA 4.0"
+ },
+ "shipa-pharm|Baby wipes": {
+  "photo": "/products/shipa-pharm/baby-wipes.jpg",
+  "credit": "Антистатические салфетки — Anton Diaz, CC BY-SA 3.0"
+ },
+ "shipa-pharm|First aid kit": {
+  "photo": "/products/shipa-pharm/first-aid-kit.jpg",
+  "credit": "Erste Hilfe 003 2026 02 17 — Friedrich Haag, CC BY-SA 4.0"
+ },
+ "shipa-pharm|Hot water bottle": {
+  "photo": "/products/shipa-pharm/hot-water-bottle.jpg",
+  "credit": "Hot Water Bag — Gaurav Dhwaj Khadka, CC BY-SA 4.0"
+ },
+ "volt-electronics|Nova X5 128 GB": {
+  "photo": "/products/volt-electronics/nova-x5-128-gb.jpg",
+  "credit": "Smartphone di varie marche — The Tech Cheat, CC BY-SA 4.0"
+ },
+ "volt-electronics|Nova X5 Pro 256 GB": {
+  "photo": "/products/volt-electronics/nova-x5-pro-256-gb.jpg",
+  "credit": "Black smartphone in hand (Unsplash) — Dennis Cortés cortes, CC0 1.0"
+ },
+ "volt-electronics|Lite S2 64 GB": {
+  "photo": "/products/volt-electronics/lite-s2-64-gb.jpg",
+  "credit": "Android Phone — Jens Mahnke, CC0 1.0"
+ },
+ "volt-electronics|Wireless earbuds": {
+  "photo": "/products/volt-electronics/wireless-earbuds.jpg",
+  "credit": "Yamaha TW-E3A Earbuds Customize, Japan; April 2021 (01) — MIKI Yoshihito. (#mikiyoshihito), CC BY 2.0"
+ },
+ "volt-electronics|Over-ear headphones ANC": {
+  "photo": "/products/volt-electronics/over-ear-headphones-anc.jpg",
+  "credit": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones… — Florian Fuchs, CC BY-SA 3.0"
+ },
+ "volt-electronics|Bluetooth speaker": {
+  "photo": "/products/volt-electronics/bluetooth-speaker.jpg",
+  "credit": "Small bluetooth speaker — unknown, CC0 1.0"
+ },
+ "volt-electronics|Fast charger 65 W": {
+  "photo": "/products/volt-electronics/fast-charger-65-w.jpg",
+  "credit": "USB power adapter for Apple iPod, Model A1205, by Foxlink… — Raimond Spekking, CC BY-SA 4.0"
+ },
+ "volt-electronics|USB-C cable 2 m": {
+  "photo": "/products/volt-electronics/usb-c-cable-2-m.jpg",
+  "credit": "USB-C cable 2017 A — Fructibus, CC0 1.0"
+ },
+ "volt-electronics|Power bank 20000 mAh": {
+  "photo": "/products/volt-electronics/power-bank-20000-mah.jpg",
+  "credit": "Free phone charging power bank — unknown, CC0 1.0"
+ },
+ "volt-electronics|Phone case": {
+  "photo": "/products/volt-electronics/phone-case.jpg",
+  "credit": "PhoneSpinner Image — Rexbye, CC0 1.0"
+ },
+ "volt-electronics|Smart bulb": {
+  "photo": "/products/volt-electronics/smart-bulb.jpg",
+  "credit": "LED-E27-Light-Bulb-1134 — Loadmaster (David R. Tribble)\n\n\n\n\n\n\nThis, CC BY-SA 4.0"
+ },
+ "volt-electronics|Smart plug": {
+  "photo": "/products/volt-electronics/smart-plug.jpg",
+  "credit": "Smart plug adapter front view with power button — Sokolikmawwer0, CC BY-SA 3.0"
+ },
+ "volt-electronics|Wi-Fi 6 router": {
+  "photo": "/products/volt-electronics/wi-fi-6-router.jpg",
+  "credit": "ASUS Wi-Fi ROUTER TUF 6500 — Dinkun Chen, CC BY-SA 4.0"
+ },
+ "smart-point|Laptop Aero 14": {
+  "photo": "/products/smart-point/laptop-aero-14.jpg",
+  "credit": "Macbook Laptop — Marc Chouinard, CC0 1.0"
+ },
+ "smart-point|Laptop Work 15": {
+  "photo": "/products/smart-point/laptop-work-15.jpg",
+  "credit": "Laptop Computer — Startup Stock Photos, CC0 1.0"
+ },
+ "smart-point|Tablet 10\"": {
+  "photo": "/products/smart-point/tablet-10.jpg",
+  "credit": "Tablet Computer — Birch Landing Home, CC0 1.0"
+ },
+ "smart-point|Tablet mini 8\"": {
+  "photo": "/products/smart-point/tablet-mini-8.jpg",
+  "credit": "Macbook Laptop — Negative Space, CC0 1.0"
+ },
+ "smart-point|Gamepad": {
+  "photo": "/products/smart-point/gamepad.jpg",
+  "credit": "PlayStation3-Sixaxis — Evan-Amos, Public Domain"
+ },
+ "smart-point|Gaming mouse": {
+  "photo": "/products/smart-point/gaming-mouse.jpg",
+  "credit": "2023 Mysz komputerowa Logitech G903 Lightspeed — Jacek Halicki, CC BY-SA 4.0"
+ },
+ "smart-point|Mechanical keyboard": {
+  "photo": "/products/smart-point/mechanical-keyboard.jpg",
+  "credit": "Beautiful Mechanical Keyboard — Anirban Saha, CC BY-SA 4.0"
+ },
+ "smart-point|Laptop backpack": {
+  "photo": "/products/smart-point/laptop-backpack.jpg",
+  "credit": "Plecak Hiker 50 L HiMountain — WrS.tm.pl, CC0 1.0"
+ },
+ "smart-point|Monitor 27\"": {
+  "photo": "/products/smart-point/monitor-27.jpg",
+  "credit": "Computer Monitors — Tran Mau Tri Tam, CC0 1.0"
+ },
+ "lale-flowers|Bouquet \"Spring\"": {
+  "photo": "/products/lale-flowers/bouquet-spring.jpg",
+  "credit": "Flower Bouquet — Tamara Menzi, CC0 1.0"
+ },
+ "lale-flowers|Steppe tulips, 25 pcs": {
+  "photo": "/products/lale-flowers/steppe-tulips-25-pcs.jpg",
+  "credit": "Tulips Bouquet — Vadym Kliuchnikov, CC BY-SA 3.0"
+ },
+ "lale-flowers|Peony bouquet": {
+  "photo": "/products/lale-flowers/peony-bouquet.jpg",
+  "credit": "Bouquet of peonies 12 — Kor!An (Андрей Корзун), CC BY-SA 3.0"
+ },
+ "lale-flowers|Red roses, 11 pcs": {
+  "photo": "/products/lale-flowers/red-roses-11-pcs.jpg",
+  "credit": "Love Valentine'Sday — Element5 Digital, CC0 1.0"
+ },
+ "lale-flowers|Roses, 25 pcs": {
+  "photo": "/products/lale-flowers/roses-25-pcs.jpg",
+  "credit": "Bouquet de roses roses — Jebulon, CC BY-SA 3.0"
+ },
+ "lale-flowers|Roses, 51 pcs": {
+  "photo": "/products/lale-flowers/roses-51-pcs.jpg",
+  "credit": "bouquet pink roses wrapped cellophane — unknown, CC0 1.0"
+ },
+ "lale-flowers|Orchid in a pot": {
+  "photo": "/products/lale-flowers/orchid-in-a-pot.jpg",
+  "credit": "Orchid 2021 001 Phalaenopsis amabilis Blume — Adam S. Keck, CC BY-SA 4.0"
+ },
+ "lale-flowers|Succulent set": {
+  "photo": "/products/lale-flowers/succulent-set.jpg",
+  "credit": "Succulent plant Terrarium — Fraxinus.ornus, CC BY-SA 4.0"
+ },
+ "lale-flowers|Monstera": {
+  "photo": "/products/lale-flowers/monstera.jpg",
+  "credit": "Monstera deliciosa kz04 — Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0"
+ },
+ "lale-flowers|Teddy bear": {
+  "photo": "/products/lale-flowers/teddy-bear.jpg",
+  "credit": "2023 Pluszowy miś — Jacek Halicki, CC BY-SA 4.0"
+ },
+ "lale-flowers|Chocolate box": {
+  "photo": "/products/lale-flowers/chocolate-box.jpg",
+  "credit": "Chocolate box - Marcolini 01 — M0tty, CC BY-SA 3.0"
+ },
+ "lale-flowers|Greeting card": {
+  "photo": "/products/lale-flowers/greeting-card.jpg",
+  "credit": "Greeting Card — Creator:Johannes Endletzberger, CC0 1.0"
+ }
+}

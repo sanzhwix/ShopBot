@@ -1,0 +1,7 @@
+webapp/node_modules
+webapp/dist
+data
+.env
+.git
+*.pdf
+*.docx
